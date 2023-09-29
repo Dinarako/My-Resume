@@ -52,10 +52,11 @@ a:hover{
     color: #EAF6F6;
 }
 
-.surname{
+  p.surname {
     color: #EAF6F6;
     font-size: 1rem;
-    padding: 20px 0;
+    margin: 30px auto;
+    text-align: center;
 }
 
 .intro {
